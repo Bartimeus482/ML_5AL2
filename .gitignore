@@ -8,3 +8,7 @@
 
 !/tp_dataprep_2/
 /tp_dataprep_2/*.csv
+
+!/tp_classification_3/
+/tp_classification_3/*.csv
+/tp_classification_3/modeles/
