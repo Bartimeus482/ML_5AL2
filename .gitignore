@@ -4,3 +4,7 @@
 !/tp_dataprep_1/
 
 /tp_dataprep_1/*.csv
+
+
+!/tp_dataprep_2/
+/tp_dataprep_2/*.csv
