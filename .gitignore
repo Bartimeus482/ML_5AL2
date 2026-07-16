@@ -12,3 +12,6 @@
 !/tp_classification_3/
 /tp_classification_3/*.csv
 /tp_classification_3/modeles/
+
+!/tp_non_supervise_4/
+/tp_non_supervise_4/*.csv
